@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from rover-graph!")
+from .main import main
