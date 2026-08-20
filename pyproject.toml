@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.scripts]
-rover-graph = "rover_graph.execution:main"
+rover-graph = "rover_graph.execution_reflexion:main"
 
 [build-system]
 requires = ["uv_build>=0.12.2,<0.13.0"]
